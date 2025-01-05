@@ -7,10 +7,12 @@ This script automates the process of generating Ethereum wallets. It allows you 
 ## Features
 
 - **Ethereum Wallet Generation**: Generate Ethereum wallets with addresses, private keys, and mnemonic phrases.
+  
 - **File Outputs**:
   - `result.txt` - Full wallet details (address, private key, and mnemonic).
   - `address.txt` - Only Ethereum addresses.
   - `privatekey.txt` - Only private keys.
+
 - **Export Options**: Choose to export the wallet data to either:
   - **Excel (.xlsx)** format.
   - **CSV (.csv)** format.
